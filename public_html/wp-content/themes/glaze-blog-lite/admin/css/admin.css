@@ -1,0 +1,27 @@
+
+/*
+===================================
+=
+= Perfectwpthemes Widgets styling
+=
+================================================
+*/
+
+.widgets-holder-wrap [id*="_glaze-blog-lite"] .widget-top {
+
+    background: #424242;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.widgets-holder-wrap [id*="_glaze-blog-lite"] h3 {
+
+	color: #ffffff !important;
+	font-weight: 500;
+	letter-spacing: 0.15px;
+}
+
+.widgets-holder-wrap [id*="_glaze-blog-lite"] h3 span.in-widget-title {
+
+	color:#b1b1b1 !important;
+}

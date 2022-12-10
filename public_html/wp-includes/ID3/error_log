@@ -1,0 +1,332 @@
+[04-Apr-2020 03:19:11 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[19-May-2020 10:01:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[25-May-2020 23:53:06 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[28-May-2020 00:21:21 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[12-Feb-2021 08:50:02 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[08-Mar-2021 10:28:42 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[14-Jul-2022 23:19:28 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[14-Jul-2022 23:19:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[14-Jul-2022 23:19:55 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[14-Jul-2022 23:20:01 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[14-Jul-2022 23:20:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[14-Jul-2022 23:20:12 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[14-Jul-2022 23:20:30 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[14-Jul-2022 23:20:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[14-Jul-2022 23:20:38 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[14-Jul-2022 23:20:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[14-Jul-2022 23:20:56 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[14-Jul-2022 23:21:06 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[14-Jul-2022 23:21:12 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[14-Jul-2022 23:21:21 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[20-Jul-2022 02:00:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[20-Jul-2022 02:00:10 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[20-Jul-2022 02:00:25 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[20-Jul-2022 02:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[20-Jul-2022 02:00:46 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[20-Jul-2022 02:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[25-Jul-2022 03:32:58 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[25-Jul-2022 03:33:00 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[25-Jul-2022 03:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[25-Jul-2022 03:33:06 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[25-Jul-2022 03:33:09 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[25-Jul-2022 03:33:12 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[25-Jul-2022 03:33:14 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[25-Jul-2022 03:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[25-Jul-2022 03:33:21 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[25-Jul-2022 03:33:23 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[25-Jul-2022 03:33:26 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[25-Jul-2022 03:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[25-Jul-2022 03:33:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[25-Jul-2022 03:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[26-Jul-2022 23:01:52 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[26-Jul-2022 23:01:59 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[26-Jul-2022 23:02:06 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[26-Jul-2022 23:02:14 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[26-Jul-2022 23:02:27 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[26-Jul-2022 23:02:42 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[26-Jul-2022 23:02:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[26-Jul-2022 23:02:54 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[26-Jul-2022 23:03:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[26-Jul-2022 23:03:10 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[26-Jul-2022 23:03:17 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[26-Jul-2022 23:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[26-Jul-2022 23:03:33 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[26-Jul-2022 23:03:41 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[10-Sep-2022 04:34:15 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[03-Oct-2022 02:30:57 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[03-Oct-2022 02:31:01 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[03-Oct-2022 02:31:04 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[03-Oct-2022 02:31:08 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[03-Oct-2022 02:31:12 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[03-Oct-2022 02:31:15 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[03-Oct-2022 02:31:20 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[03-Oct-2022 02:31:24 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[03-Oct-2022 02:31:28 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[03-Oct-2022 02:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[03-Oct-2022 02:31:36 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[03-Oct-2022 02:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[03-Oct-2022 02:31:43 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[03-Oct-2022 02:31:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[10-Oct-2022 05:58:35 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.asf.php on line 16
+[10-Oct-2022 05:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.flv.php on line 77
+[10-Oct-2022 05:58:42 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php:216
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[10-Oct-2022 05:58:46 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[10-Oct-2022 05:58:54 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[10-Oct-2022 05:59:01 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[10-Oct-2022 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[10-Oct-2022 05:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[10-Oct-2022 05:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[10-Oct-2022 05:59:29 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[10-Oct-2022 05:59:32 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[10-Oct-2022 05:59:38 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[10-Oct-2022 05:59:43 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[10-Oct-2022 05:59:48 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18

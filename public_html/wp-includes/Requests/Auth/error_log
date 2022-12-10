@@ -1,0 +1,32 @@
+[14-Jul-2022 23:25:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[25-Jul-2022 03:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[25-Jul-2022 03:51:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[26-Jul-2022 23:05:39 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[26-Jul-2022 23:36:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[03-Oct-2022 02:32:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[10-Oct-2022 06:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[10-Oct-2022 06:26:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Auth' not found in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/Requests/Auth/Basic.php on line 18

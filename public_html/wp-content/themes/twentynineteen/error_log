@@ -1,0 +1,12 @@
+[31-May-2020 01:28:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/kd52609/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-content/themes/twentynineteen/functions.php on line 16
+[05-Jun-2020 08:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/kd52609/public_html/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-content/themes/twentynineteen/functions.php on line 16
+[01-May-2022 19:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kd52609/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-content/themes/twentynineteen/index.php on line 17

@@ -1,0 +1,69 @@
+[08-May-2021 12:46:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2021 12:46:32 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2021 12:46:32 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2021 12:46:32 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2021 12:46:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-May-2021 04:30:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-May-2021 04:30:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-May-2021 04:30:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-May-2021 04:30:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-May-2021 04:30:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[20-May-2021 23:41:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[20-May-2021 23:41:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[20-May-2021 23:41:40 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[20-May-2021 23:41:40 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[20-May-2021 23:41:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[03-Nov-2021 12:15:38 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[03-Nov-2021 12:15:38 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[03-Nov-2021 12:15:38 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[03-Nov-2021 12:15:38 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[03-Nov-2021 12:15:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[07-Feb-2022 10:22:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[07-Feb-2022 10:22:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[07-Feb-2022 10:22:07 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[07-Feb-2022 10:22:07 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[07-Feb-2022 10:22:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[13-Feb-2022 14:44:12 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[13-Feb-2022 14:44:12 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[13-Feb-2022 14:44:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[13-Feb-2022 14:44:12 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[13-Feb-2022 14:44:12 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[04-Mar-2022 05:21:51 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[04-Mar-2022 05:21:51 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[04-Mar-2022 05:21:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[04-Mar-2022 05:21:51 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[04-Mar-2022 05:21:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[02-Apr-2022 16:00:13 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[02-Apr-2022 16:00:13 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[02-Apr-2022 16:00:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[02-Apr-2022 16:00:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[02-Apr-2022 16:00:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 22:46:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 22:46:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 22:46:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 22:46:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[10-Apr-2022 22:46:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2022 11:14:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2022 11:14:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2022 11:14:44 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2022 11:14:44 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[08-May-2022 11:14:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[11-Sep-2022 07:03:21 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[11-Sep-2022 07:03:21 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[11-Sep-2022 07:03:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[11-Sep-2022 07:03:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[11-Sep-2022 07:03:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[17-Sep-2022 21:41:34 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[17-Sep-2022 21:41:34 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[17-Sep-2022 21:41:34 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[17-Sep-2022 21:41:34 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[17-Sep-2022 21:41:34 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[19-Sep-2022 06:29:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[19-Sep-2022 06:29:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[19-Sep-2022 06:29:44 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[19-Sep-2022 06:29:44 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[19-Sep-2022 06:29:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kd52609/public_html/wp-includes/functions.php on line 8
+[26-Sep-2022 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/kd52609/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/template-loader.php on line 7

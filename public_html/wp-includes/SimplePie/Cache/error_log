@@ -1,0 +1,128 @@
+[14-Jul-2022 23:32:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[14-Jul-2022 23:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[14-Jul-2022 23:33:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[14-Jul-2022 23:33:34 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[25-Jul-2022 03:37:09 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[25-Jul-2022 03:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[25-Jul-2022 03:37:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[25-Jul-2022 03:37:20 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[25-Jul-2022 03:55:26 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[25-Jul-2022 03:55:29 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[25-Jul-2022 03:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[25-Jul-2022 03:55:36 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[26-Jul-2022 23:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[26-Jul-2022 23:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[26-Jul-2022 23:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[26-Jul-2022 23:10:13 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[26-Jul-2022 23:44:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[26-Jul-2022 23:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[26-Jul-2022 23:44:51 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[26-Jul-2022 23:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[03-Oct-2022 02:35:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[03-Oct-2022 02:35:40 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[03-Oct-2022 02:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[03-Oct-2022 02:35:48 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[10-Oct-2022 06:04:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[10-Oct-2022 06:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[10-Oct-2022 06:04:32 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[10-Oct-2022 06:04:54 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[10-Oct-2022 06:33:13 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[10-Oct-2022 06:33:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[10-Oct-2022 06:33:27 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[10-Oct-2022 06:33:31 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/kd52609/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
