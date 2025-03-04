@@ -109,3 +109,6 @@ package-lock.json
 
 # css
 main.css
+
+# misc
+.DS_Store
